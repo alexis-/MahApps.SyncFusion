@@ -14,11 +14,11 @@
   <SolidColorBrush x:Key="HeaderGlyphBrush" Color="{DynamicResource Gray2}" options:Freeze="True" /> <!--original #FF686969-->
   <SolidColorBrush x:Key="HoverBackgroundBrush" Color="{DynamicResource AccentColor2}" options:Freeze="True" /> <!--original #FFD1EAF5-->
   <SolidColorBrush x:Key="HoverBorderBrush" Color="{DynamicResource Gray7}" options:Freeze="True" /> <!--original #FF179BD7-->
-  <SolidColorBrush x:Key="HoverForegroundBrush" Color="{DynamicResource BlackColor}" options:Freeze="True" /> <!--original #FF282827-->
+  <SolidColorBrush x:Key="HoverForegroundBrush" Color="{DynamicResource IdealForegroundColor}" options:Freeze="True" /> <!--original #FF282827-->
   <SolidColorBrush x:Key="HoverGlyphBrush" Color="{DynamicResource BlackColor}" options:Freeze="True" /> <!--original #FF282827-->
   <SolidColorBrush x:Key="ActiveBackgroundBrush" Color="{DynamicResource AccentColor}" options:Freeze="True" /> <!--original #FF179BD7-->
   <SolidColorBrush x:Key="ActiveBorderBrush" Color="{DynamicResource AccentColor}" options:Freeze="True" /> <!--original #FFC8C8C8-->
-  <SolidColorBrush x:Key="ActiveForegroundBrush" Color="{DynamicResource BlackColor}" options:Freeze="True" /> <!--original #FFFFFFFF-->
+  <SolidColorBrush x:Key="ActiveForegroundBrush" Color="{DynamicResource IdealForegroundColor}" options:Freeze="True" /> <!--original #FFFFFFFF-->
   <SolidColorBrush x:Key="ActiveGlyphBrush" Color="{DynamicResource WhiteColor}" options:Freeze="True" /> <!--original #FFFFFFFF-->
   <SolidColorBrush x:Key="ContentBackgroundBrush" Color="{DynamicResource WhiteColor}" options:Freeze="True" /> <!--original #FFFFFFFF-->
   <SolidColorBrush x:Key="ContentBorderBrush" Color="{DynamicResource Gray7}" options:Freeze="True" /> <!--original #FFC8C8C8-->
