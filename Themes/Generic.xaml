@@ -2,8 +2,8 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
   <ResourceDictionary.MergedDictionaries>
-    <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml"/>
-    <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.SfDataGrid.xaml"/>
+    <ResourceDictionary Source="pack://application:,,,/MahApps.SyncFusion;component/Styles/Colors.xaml"/>
+    <ResourceDictionary Source="pack://application:,,,/MahApps.SyncFusion;component/Styles/Controls.SfDataGrid.xaml"/>
   </ResourceDictionary.MergedDictionaries>
   
 </ResourceDictionary>
