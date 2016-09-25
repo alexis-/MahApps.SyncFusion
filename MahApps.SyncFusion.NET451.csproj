@@ -66,9 +66,11 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Converters\EnabledToCollapsedVisibilityConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controls\SfDataGrid.Search.Control.cs" />
     <None Include="LICENSE" />
     <None Include="packages.config" />
     <None Include="readme.md" />
@@ -84,6 +86,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Styles\Controls.SfDataPager.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\Controls.SfDataGrid.Search.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>

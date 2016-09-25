@@ -4,6 +4,7 @@
   <ResourceDictionary.MergedDictionaries>
     <ResourceDictionary Source="pack://application:,,,/MahApps.SyncFusion;component/Styles/Colors.xaml"/>
     <ResourceDictionary Source="pack://application:,,,/MahApps.SyncFusion;component/Styles/Controls.SfDataGrid.xaml"/>
+    <ResourceDictionary Source="pack://application:,,,/MahApps.SyncFusion;component/Styles/Controls.SfDataGrid.Search.xaml"/>
     <ResourceDictionary Source="pack://application:,,,/MahApps.SyncFusion;component/Styles/Controls.SfDataPager.xaml"/>
   </ResourceDictionary.MergedDictionaries>
   
